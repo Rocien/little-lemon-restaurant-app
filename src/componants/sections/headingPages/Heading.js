@@ -1,7 +1,7 @@
 import {Link} from 'react-router-dom';
 export default function Heading() {
     return (
-        
+
         // THIS IS HERO SECTION
         <header>
             <article className="hero-section">
