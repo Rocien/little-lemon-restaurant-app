@@ -9,7 +9,7 @@ This is my Final capstone project for Meta Front-end developer program on Course
 
 ### Booking Page
 
-![Screenshot](./Reservationpage.png)
+![Screenshot](./Reservationpage.jpg)
 
 ### Tech languages:
 
