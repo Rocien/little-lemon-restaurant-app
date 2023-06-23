@@ -15,27 +15,31 @@ export default function Nav() {
             </Link>
           </li>
           <li>
-            <Link to="">
+            <Link to="/about">
               <h1>About</h1>
             </Link>
           </li>
           <li>
-            <Link to="">
+            <a
+            className="hover-effect"
+            href={require("../assets/menu.jpeg")}
+            target="_blank"
+            rel="noreferrer">
               <h1>Menu</h1>
-            </Link>
+            </a>
           </li>
           <li>
-            <Link to="">
+            <Link to="/reservations">
               <h1>Reservations</h1>
             </Link>
           </li>
           <li>
-            <Link to="">
+            <Link to="/order">
               <h1>Order online</h1>
             </Link>
           </li>
           <li>
-            <Link to="">
+            <Link to="/login">
               <h1>Login</h1>
             </Link>
           </li>
